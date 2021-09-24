@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Mu'nes Yasin protfolio 
 
-Make it your own! 
+Nitlify deployed link : https://munes-yasin-portfolio.netlify.app/  

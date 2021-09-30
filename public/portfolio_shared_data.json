@@ -5,16 +5,16 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/MunesYasin",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "url": "https://www.facebook.com/moanes.yasin",
+          "class": "fab fa-facebook"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myPhoto.jpg"
     },
     "skills": {
       "icons": [
